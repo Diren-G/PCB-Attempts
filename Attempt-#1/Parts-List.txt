@@ -1,0 +1,2 @@
+U1 - RP2040 - https://www.digikey.com/en/products/detail/raspberry-pi/SC0914-7/14306009
+Y1 - 12 Mhz Crystal - https://www.digikey.com/en/products/detail/ecs-inc/ECS-120-10-36B2-JTN-TR/14663300
